@@ -1,0 +1,35 @@
+.centerpos{
+    margin-left: 35%;
+    margin-top: 10%;
+}
+.box-size{
+    max-width: 600px;
+    max-height: 900px;
+}
+.prod-card{
+    margin: 10px;
+}
+.nav-move{
+    margin-left: 20px;
+}
+.navbar{
+    border-radius: 10px 10px 10px 10px / 10px 10px 10px 10px;
+}
+.prod-frame{
+    margin-top: 20px;
+}
+.cart{
+    margin-top: 10px;
+}
+.side-cart {
+    border-style: inset;
+    border-radius: 10px 10px 10px 10px / 10px 10px 10px 10px;
+    /* box-shadow: 2px 2px 2px 6px  rgba(128, 128, 128, 0.397); */
+}
+.inner-prod{
+    border-radius: 10px 10px 10px 10px / 10px 10px 10px 10px;
+    border-style: inset;
+}
+.whole{
+    margin-top: 20px;
+}
